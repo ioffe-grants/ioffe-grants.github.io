@@ -7,4 +7,4 @@ draft: false
 * Whos grant is this?
 * RFBR's
 * Who is RFBR?
-* RFBR is dead baby. (RFBR is dead)[https://www.youtube.com/watch?v=y7Yp2L6c2KM]. 
+* RFBR is dead baby. [RFBR is dead](https://www.youtube.com/watch?v=y7Yp2L6c2KM). 
